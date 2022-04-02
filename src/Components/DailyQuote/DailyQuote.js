@@ -54,8 +54,8 @@ const DailyQuote = () => {
 
     return (
         <Container className="quote-container py-5 my-5">
-            <Card className="my-5 py-5 px-5 transparent">
-                <Card.Body className="transparent">
+            <Card className="my-5 py-5 px-5 transparent no-border">
+                <Card.Body className="transparent no-border">
                     { displayQuoteData() }
                 </Card.Body>
             </Card>

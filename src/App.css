@@ -1,7 +1,9 @@
-
+html {
+  background-color: #282c34;
+}
 .App {
   text-align: center;
-  
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -44,3 +46,13 @@
 a {
   text-decoration: none;
 }
+
+.transparent {
+  background: transparent !important;
+  
+}
+
+.no-border {
+  border: none !important;
+}
+

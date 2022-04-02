@@ -12,6 +12,7 @@
     color: rgb(255, 255, 255);
     text-align: left;
     
+    
 }
 
 .quote-paragraph-author {
@@ -20,11 +21,6 @@
     color: rgb(255, 255, 255);
     font-size: 2rem;
     text-align: right;
-}
-
-.transparent {
-    background: transparent !important;
-    border: none !important;
 }
 
 .quote-nav {

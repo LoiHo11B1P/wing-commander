@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "./NavBar.css"
 
 const NavBar = () => {
+    
     return (
         
             <Navbar bg="primary" className="white--text" variant="dark" expand="lg">
